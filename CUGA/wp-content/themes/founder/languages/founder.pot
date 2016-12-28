@@ -1,0 +1,453 @@
+# Copyright (C) 2016 Compete Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Founder 1.31\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-12-05 12:31:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:6
+msgid "404: Page Not Found"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"Looks like nothing was found on this url.  Double-check that the url is "
+"correct or try the search form below to find what you were looking for."
+msgstr ""
+
+#: comments.php:23 comments.php:44 comments.php:66
+msgid "Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:44 comments.php:66 content/comments-link.php:5
+#: content/comments-link.php:8
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:23 comments.php:44 comments.php:66 content/comments-link.php:5
+#: content/comments-link.php:8
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:58
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this "
+"post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: comments.php:80 comments.php:87
+msgid "Comments are closed."
+msgstr ""
+
+#: content/archive-header.php:4 inc/customizer.php:301 inc/customizer.php:371
+msgid "Posts"
+msgstr ""
+
+#: content/comments-link.php:2
+msgid "comment icon"
+msgstr ""
+
+#: content/comments-link.php:5
+msgid "Comments closed"
+msgstr ""
+
+#: content/comments-link.php:8
+msgid "Leave a Comment"
+msgstr ""
+
+#: content/post-categories.php:9
+msgid "Published in"
+msgstr ""
+
+#: content/post-categories.php:11
+msgid "View all posts in %s"
+msgstr ""
+
+#: content/post-meta.php:8
+msgid "Published %1$s by %2$s"
+msgstr ""
+
+#: content/post-nav-attachment.php:3
+msgid "Previous Image"
+msgstr ""
+
+#: content/post-nav-attachment.php:6
+msgid "Next Image"
+msgstr ""
+
+#: content/post-nav.php:9
+msgid "Previous Post"
+msgstr ""
+
+#: content/post-nav.php:10
+msgid "The Previous Post"
+msgstr ""
+
+#: content/post-nav.php:13
+msgid "No Older Posts"
+msgstr ""
+
+#: content/post-nav.php:14 content/post-nav.php:28
+msgid "Return to Blog"
+msgstr ""
+
+#: content/post-nav.php:23
+msgid "Next Post"
+msgstr ""
+
+#: content/post-nav.php:24
+msgid "The Next Post"
+msgstr ""
+
+#: content/post-nav.php:27
+msgid "No Newer Posts"
+msgstr ""
+
+#: content/post-tags.php:6
+msgid "Tagged in"
+msgstr ""
+
+#: content/post-tags.php:9
+msgid "View all posts tagged %s"
+msgstr ""
+
+#: content/search-bar.php:12 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: content/search-bar.php:13
+msgid "Search..."
+msgstr ""
+
+#: content/search-bar.php:14 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: content-page.php:11 content.php:12
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:8
+msgid "<a href=\"%s\">Founder WordPress Theme</a> by Compete Themes."
+msgstr ""
+
+#: functions.php:39
+msgid "Primary"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:51
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr ""
+
+#: functions.php:76
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:84
+msgid "Reply"
+msgstr ""
+
+#: functions.php:88
+msgid "Edit"
+msgstr ""
+
+#: functions.php:100
+msgid "(optional)"
+msgstr ""
+
+#: functions.php:105
+msgid "Name"
+msgstr ""
+
+#: functions.php:112
+msgid "Email"
+msgstr ""
+
+#: functions.php:119
+msgid "Website"
+msgstr ""
+
+#: functions.php:134
+msgid "Comment"
+msgstr ""
+
+#: functions.php:165 functions.php:174 functions.php:191 inc/customizer.php:270
+msgid "Continue reading"
+msgstr ""
+
+#: functions.php:362 functions.php:363
+msgid "email"
+msgstr ""
+
+#: functions.php:410 header.php:23 inc/scripts.php:16
+msgid "open menu"
+msgstr ""
+
+#: functions.php:424
+msgid "Featured Post"
+msgstr ""
+
+#: functions.php:486
+msgid "Customizer settings deleted."
+msgstr ""
+
+#: functions.php:492
+msgid "Thanks for activating Founder!"
+msgstr ""
+
+#: header.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:24
+msgid "primary menu icon"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid ""
+"<a target=\"_blank\" href=\"%s\">Founder Pro</a> is the plugin that makes "
+"advanced customization simple - and fun too!"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Founder Pro adds the following features to Founder:"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Custom colors"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "New fonts"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Post & page templates"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "+ 8 more features"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "View Founder Pro"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Founder Pro"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Upload custom logo."
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Add the URL for each of your social profiles."
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid ""
+"Accepts Skype link protocol (<a href=\"%s\" target=\"_blank\">learn "
+"more</a>)"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Search Bar"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Show search bar at top of site?"
+msgstr ""
+
+#: inc/customizer.php:228 inc/customizer.php:352
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:229 inc/customizer.php:353
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Show full posts on blog?"
+msgstr ""
+
+#: inc/customizer.php:252 inc/customizer.php:387
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:253 inc/customizer.php:388
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Excerpt word count"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Read More button text"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Comment Display"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Show comments on:"
+msgstr ""
+
+#: inc/customizer.php:302 inc/customizer.php:372
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer.php:303 inc/customizer.php:373
+msgid "Attachments"
+msgstr ""
+
+#: inc/customizer.php:304 inc/customizer.php:374
+msgid "Do not show"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Add Custom CSS Here:"
+msgstr ""
+
+#: inc/scripts.php:17
+msgid "close menu"
+msgstr ""
+
+#: inc/scripts.php:18 sidebar-primary.php:9
+msgid "open sidebar"
+msgstr ""
+
+#: inc/scripts.php:19
+msgid "close sidebar"
+msgstr ""
+
+#: index.php:19
+msgid "Previous"
+msgstr ""
+
+#: index.php:20
+msgid "Next"
+msgstr ""
+
+#: search.php:10
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:12
+msgid "No search results for \"%s\""
+msgstr ""
+
+#: search.php:36
+msgid "Can't find what you're looking for? Try refining your search:"
+msgstr ""
+
+#: searchform.php:6
+msgid "Go"
+msgstr ""
+
+#: sidebar-primary.php:10
+msgid "sidebar icon"
+msgstr ""
+
+#: theme-options.php:4 theme-options.php:20
+msgid "Founder Dashboard"
+msgstr ""
+
+#: theme-options.php:24
+msgid "Get Started"
+msgstr ""
+
+#: theme-options.php:25
+msgid ""
+"Not sure where to start? The <strong>Founder Getting Started Guide</strong> "
+"will take you step-by-step through every feature in Founder."
+msgstr ""
+
+#: theme-options.php:28
+msgid "View Guide"
+msgstr ""
+
+#: theme-options.php:33
+msgid "Founder Pro Plugin"
+msgstr ""
+
+#: theme-options.php:34
+msgid ""
+"Download the Founder Pro plugin and unlock custom colors, featured sliders, "
+"header images, and more"
+msgstr ""
+
+#: theme-options.php:37
+msgid "See Full Feature List"
+msgstr ""
+
+#: theme-options.php:42 theme-options.php:44
+msgid "Leave a Review"
+msgstr ""
+
+#: theme-options.php:43
+msgid "Help others find Founder by leaving a review on wordpress.org."
+msgstr ""
+
+#: theme-options.php:47 theme-options.php:55
+msgid "Reset Customizer Settings"
+msgstr ""
+
+#: theme-options.php:49
+msgid ""
+"<strong>Warning:</strong> Clicking this button will erase the Founder "
+"theme's current settings in the <a href='%s'>Customizer</a>."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Founder's minimalist design presents your content in a simple, clean, and "
+"professional manner. As a responsive theme, Founder is beautiful on phones, "
+"tablets, and laptops, and is optimized to load quickly on each. Built with "
+"Google's multilingual font, Noto Sans, it is compatible with hundreds of "
+"languages. Lastly, as an accessibility-ready theme, visitors around the "
+"world can appreciate your content regardless of disability. Get excited to "
+"share your site, and download Founder today. Preview on desktop, tablets, "
+"and mobile with our interactive live demo: "
+"https://www.competethemes.com/demos/?theme=founder"
+msgstr ""

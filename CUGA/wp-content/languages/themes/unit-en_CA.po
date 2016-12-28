@@ -1,0 +1,39 @@
+# Translation of Unit in English (Canada)
+# This file is distributed under the same license as the Unit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-13 21:11:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Unit\n"
+
+#. Theme Name of the plugin/theme
+msgid "Unit"
+msgstr "Unit"
+
+#. Description of the plugin/theme
+msgid "Unit is a child theme for the Founder theme. It features a simple and clean blog layout designed to focus visitors on your content."
+msgstr "Unit is a child theme for the Founder theme. It features a simple and clean blog layout designed to focus visitors on your content."
+
+#: functions.php:22
+msgid "<a href=\"%s\">Unit WordPress Theme</a> by Compete Themes"
+msgstr "<a href=\"%s\">Unit WordPress Theme</a> by Compete Themes"
+
+#: content-page.php:10 content.php:11
+msgid "Pages:"
+msgstr "Pages:"
+
+#. Author of the plugin/theme
+msgid "Compete Themes"
+msgstr "Compete Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://www.competethemes.com"
+msgstr "https://www.competethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.competethemes.com/unit/"
+msgstr "https://www.competethemes.com/unit/"
