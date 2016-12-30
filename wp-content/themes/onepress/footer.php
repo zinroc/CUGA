@@ -99,7 +99,10 @@
                  * hooked onepress_footer_site_info
                  * @see onepress_footer_site_info
                  */
-                do_action('onepress_footer_site_info');
+		/**
+                * do_action('onepress_footer_site_info');
+		**/
+		  echo("(c) 2017 Canadian Underwater Games Association (CUGA)");
                 ?>
             </div>
         </div>
